@@ -203,6 +203,16 @@
             "rid": "win"
           }
         }
+      },
+      "ModelLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ModelLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ModelLib.dll": {}
+        }
       }
     }
   },
@@ -576,12 +586,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "ModelLib/1.0.0": {
+      "type": "project",
+      "path": "../ModelLib/ModelLib.csproj",
+      "msbuildProject": "../ModelLib/ModelLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.1",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.1",
+      "ModelLib >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -618,7 +634,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\MyWork\\Projects\\TrainingRepo\\CoreAPIwithAngular\\ModelLib\\ModelLib.csproj": {
+              "projectPath": "E:\\MyWork\\Projects\\TrainingRepo\\CoreAPIwithAngular\\ModelLib\\ModelLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

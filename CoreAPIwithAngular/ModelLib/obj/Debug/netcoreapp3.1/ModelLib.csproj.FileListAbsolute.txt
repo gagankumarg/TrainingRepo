@@ -1,0 +1,9 @@
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.deps.json
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.dll
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\bin\Debug\netcoreapp3.1\ModelLib.pdb
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.csprojAssemblyReference.cache
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.AssemblyInfoInputs.cache
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.AssemblyInfo.cs
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.csproj.CoreCompileInputs.cache
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.dll
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\ModelLib\obj\Debug\netcoreapp3.1\ModelLib.pdb

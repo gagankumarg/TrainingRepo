@@ -1,6 +1,6 @@
 using System;
 
-namespace CoreAPI
+namespace ModelLib
 {
     public class WeatherForecast
     {

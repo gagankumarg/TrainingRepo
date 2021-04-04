@@ -35,3 +35,5 @@ E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\obj\Debug\net5.0\Core
 E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\obj\Debug\net5.0\ref\CoreAPI.dll
 E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\obj\Debug\net5.0\CoreAPI.pdb
 E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\obj\Debug\net5.0\CoreAPI.genruntimeconfig.cache
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\bin\Debug\net5.0\ModelLib.dll
+E:\MyWork\Projects\TrainingRepo\CoreAPIwithAngular\CoreAPI\bin\Debug\net5.0\ModelLib.pdb

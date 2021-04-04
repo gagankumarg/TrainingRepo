@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lA1kuupYAD18oUkA9z+DBgavY9UhlPSgWCNIz7ohhIPyZ4vSofPra8ZcS8pIPg5Rhxb9POPYqLBoMyFoYQQuTQ==",
+  "success": true,
+  "projectFilePath": "E:\\MyWork\\Projects\\TrainingRepo\\CoreAPIwithAngular\\ModelLib\\ModelLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo-pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
